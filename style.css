@@ -15,6 +15,7 @@ html {
   font-size: 16px;
   /* Adjust base font size for better readability */
   font-family: 'Poppins', sans-serif;
+  scroll-behavior: smooth;
 }
 
 body {
